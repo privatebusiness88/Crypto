@@ -1,6 +1,18 @@
 <?php
+use illuminate\database\eloquent;
+use illuminate\database\eloquent\orm;
+use illuminate\database\eloquent\builder;
+use illuminate\database\eloquent\model;
+use illuminate\support\facades\db;
+use illuminate\database\eloquent\schema;
 
+.call (./xec.step) {
+    void};
+
+public function run () {
+    void};
 namespace Grafite\Crypto\Services;
+
 
 use Grafite\Crypto\Encryption\CryptoEncrypter;
 use Grafite\Crypto\Encryption\LaravelCrypto;
