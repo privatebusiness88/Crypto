@@ -1,4 +1,12 @@
 <?php
+use illuminate\database\eloquent;
+use illuminate\database\eloquent\orm;
+use illuminate\database\eloquent\builder;
+use illuminate\database\eloquent\model;
+use illuminate\support\facades\db;
+use illuminate\database\eloquent\schema;
+
+
 
 namespace Grafite\Crypto\Services;
 
